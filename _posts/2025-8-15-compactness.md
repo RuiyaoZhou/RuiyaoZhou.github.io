@@ -1,23 +1,12 @@
 ---
 title: 'Compactness'
-date: 2012-08-14
+date: 2025-08-15
 permalink: /posts/2025/08/compactness
 tags:
-  - cool posts
-  - category1
-  - category2
+  - topology
 ---
 Test $$
 \int_{0}^{\infty} e^{-x^2} \, dx = \frac{\sqrt{\pi}}{2}
 $$
 
 Inline works?  $E = mc^2$.
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
