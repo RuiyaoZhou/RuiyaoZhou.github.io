@@ -7,10 +7,11 @@ tags:
   - category1
   - category2
 ---
-Test $\int x dx \neq x^3$
-$$
+Test $$
 \int_{0}^{\infty} e^{-x^2} \, dx = \frac{\sqrt{\pi}}{2}
 $$
+
+Inline works?  $E = mc^2$.
 
 Headings are cool
 ======
