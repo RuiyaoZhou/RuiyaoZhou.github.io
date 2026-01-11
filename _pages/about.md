@@ -12,7 +12,7 @@ Hi, I'm **Ruiyao Zhou** (Ryan). I'm a **3rd-year undergraduate Mathematics** stu
 My interests are **analysis** and **geometry**.
 
 ## Links
-- **CV:** [PDF](/files/ryan_cv.pdf)
+- **CV:** [Curriculum Vitae](/files/ryan_cv.pdf)
 - **Notes:** [Notes index](/notes/) (or browse files: `/files/`)
 - **Email:** your.email@domain.com
 - **GitHub:** https://github.com/yourusername
